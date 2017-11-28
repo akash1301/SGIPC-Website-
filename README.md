@@ -1,6 +1,6 @@
 # SGIPC-Website-
 
-This is a website made for my university Project. SGIPC(Special Group for Interested in Programming Contest) is group for which this website is made.
+This is a website made for my university Project. This is written in PHP. SGIPC(Special Group for Interested in Programming Contest) is group for which this website is made.
 
 In this website people can sign up and add their id of online judge. Two online judge has been added UVA(uva.onlinejudge.org) and Codeforces(codeforces.com).
 
